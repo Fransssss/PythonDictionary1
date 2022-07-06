@@ -2,10 +2,10 @@
 Python Dictionary - Nation and its constitutional form
 
 - Objectives :
-- obj.values()
+- obj.value()
 - obj.key()
-- obj.items()
-- obj.updated()
+- obj.item()
+- obj.update()
 - obj.pop()
 - obj.clear()
 
